@@ -1,0 +1,17 @@
+.para_2 {
+    text-align: right;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.table_container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    border: 2px solid black;
+}
